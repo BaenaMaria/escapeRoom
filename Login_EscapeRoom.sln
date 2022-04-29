@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login_EscapeRoom", "Login_EscapeRoom\Login_EscapeRoom.csproj", "{1A85ECCD-62D6-4183-9281-210309D7A776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A85ECCD-62D6-4183-9281-210309D7A776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A85ECCD-62D6-4183-9281-210309D7A776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A85ECCD-62D6-4183-9281-210309D7A776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A85ECCD-62D6-4183-9281-210309D7A776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23190374-1A60-4090-B29D-91D5E05A1278}
+	EndGlobalSection
+EndGlobal

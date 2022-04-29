@@ -1,0 +1,142 @@
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.exe
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.deps.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.dev.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfo.cs
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.genruntimeconfig.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Properties.Resources.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Login.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Memoria.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Habitacion.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.FormBillete.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Preguntas.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Pantalla.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Figuras.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.CajaFuerte.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.exe
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.deps.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.dev.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Habitacion.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Properties.Resources.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfo.cs
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.genruntimeconfig.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucMemoria.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucPantalla.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucPregunta.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucBillete.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucCajon.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucCodigo.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\Login_EscapeRoomVersion1\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucLogin.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.exe
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.deps.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.dev.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Habitacion.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Properties.Resources.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucBillete.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucCajon.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucCodigo.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucLogin.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucMemoria.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucPantalla.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucPregunta.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfo.cs
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.genruntimeconfig.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\C#\WindowsForm\EscapeRoom Marina y María\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.NoPista.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.exe
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.deps.json
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.json
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.dev.json
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csprojAssemblyReference.cache
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Habitacion.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.NoPista.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Properties.Resources.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucBillete.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucCajon.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucCodigo.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucLogin.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucMemoria.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucPantalla.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucPregunta.resources
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.GenerateResource.cache
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfoInputs.cache
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfo.cs
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.CoreCompileInputs.cache
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+G:\Mi unidad\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.genruntimeconfig.cache
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.exe
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.deps.json
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.json
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.dev.json
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csprojAssemblyReference.cache
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Habitacion.resources
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.NoPista.resources
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Properties.Resources.resources
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucBillete.resources
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucCajon.resources
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucCodigo.resources
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucLogin.resources
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucMemoria.resources
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucPantalla.resources
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucPregunta.resources
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.GenerateResource.cache
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfoInputs.cache
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfo.cs
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.CoreCompileInputs.cache
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+D:\Marina\Google Drive\DAM\Programación\scape\EscapeRoomNoRefactorizada\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.genruntimeconfig.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.exe
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.deps.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.runtimeconfig.dev.json
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\bin\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csprojAssemblyReference.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Habitacion.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.NoPista.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.Properties.Resources.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucBillete.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucCajon.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucCodigo.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucLogin.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucMemoria.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucPantalla.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.ucPregunta.resources
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.GenerateResource.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.AssemblyInfo.cs
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.dll
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.pdb
+C:\Users\maria\Desktop\Google Drive\1ºDAM\Programación\EscapeRoomCodigoLimpio\Login_EscapeRoom\Login_EscapeRoom\obj\Debug\netcoreapp3.1\Login_EscapeRoom.genruntimeconfig.cache

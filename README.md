@@ -1,2 +1,2 @@
 # escapeRoom
- Pantalla escapeRom 1dam
+ Pantalla escapeRoom 1dam
